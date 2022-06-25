@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mV/a1aWHfugB4MRLDc/3ll9BY6ehNZ/drwPYRksG9vI=",
+  "Hash": "5ZZezqWbmnXYDFjH0BHzp2/Z/vyDE7GUP4YWheh4OBI=",
   "Source": "YouShouldListenUI",
   "BasePath": "_content/YouShouldListenUI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "YouShouldListenUI\\wwwroot",
       "Source": "YouShouldListenUI",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\YouShouldListenUI.styles.css",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\YouShouldListenUI.styles.css",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "YouShouldListenUI.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\YouShouldListenUI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\bundle\\YouShouldListenUI.styles.css"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\YouShouldListenUI.bundle.scp.css",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\YouShouldListenUI.bundle.scp.css",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "YouShouldListenUI.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\YouShouldListenUI.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\YouShouldListenUI.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\css\\site.css",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\favicon.ico",
       "SourceId": "YouShouldListenUI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\wwwroot\\",
       "BasePath": "_content/YouShouldListenUI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",

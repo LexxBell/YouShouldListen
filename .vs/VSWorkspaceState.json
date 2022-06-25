@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\YouShouldListenLibrary",
+    "\\YouShouldListenLibrary\\bin",
+    "\\YouShouldListenLibrary\\DataAccess",
+    "\\YouShouldListenLibrary\\Models",
+    "\\YouShouldListenUI",
+    "\\YouShouldListenUI\\wwwroot"
+  ],
+  "SelectedNode": "\\YouShouldListenUI\\YouShouldListenUI.csproj",
+  "PreviewInSolutionExplorer": false
+}

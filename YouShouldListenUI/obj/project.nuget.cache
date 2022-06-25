@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5UwsM6b20rihCEQpYksqiMAQK7rDShL0sXTUu3A1BPTQQahb13trySWpkrazrp2YaUdwtg3frwCdP+DXpdKerw==",
+  "dgSpecHash": "quwOb1NcvY/8u5w4MeR9rtX9LlEji7A6Esv2SZ7xpNMbCV71nJp0ZZXj9d66FsoN40UuMkxs2cmckQrWADHJpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenUI\\YouShouldListenUI.csproj",
+  "projectFilePath": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenUI\\YouShouldListenUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\17027\\.nuget\\packages\\azure.core\\1.6.0\\azure.core.1.6.0.nupkg.sha512",
     "C:\\Users\\17027\\.nuget\\packages\\azure.identity\\1.3.0\\azure.identity.1.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj": {}
+    "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj": {
+    "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj",
         "projectName": "YouShouldListenLibrary",
-        "projectPath": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj",
+        "projectPath": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj",
         "packagesPath": "C:\\Users\\17027\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenLibrary\\obj\\",
+        "outputPath": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\17027\\AppData\\Roaming\\NuGet\\NuGet.Config",

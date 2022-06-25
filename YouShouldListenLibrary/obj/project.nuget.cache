@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OVAWq93/kG3s/ZkUWAgsj1SP9VloVojmd8J+jLV/r7DWbojgmsQ1z86R9IOMMmxHFe56AWniFbFYDttFqq/VAw==",
+  "dgSpecHash": "zDR0/kZXdNO9tHxazxL1RU+Tp0SayTHRy2MReSXG5WqHJbu0gvN0AGXrplKoj44Ua5JOHZS8tydZqsT/CzHC3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\17027\\Documents\\GitHub\\androidfun\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj",
+  "projectFilePath": "C:\\Users\\17027\\Documents\\GitHub\\YouShouldListen\\YouShouldListenLibrary\\YouShouldListenLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\17027\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\17027\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
